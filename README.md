@@ -1,5 +1,7 @@
 # Documentation
 
+Explore the API endpoints with Swagger Springfox; navigate to [https://wilson-books.onrender.com/swagger-ui/index.html](https://wilson-books.onrender.com/swagger-ui/index.html).
+
 ## Authentication Endpoints
 
 ### Sign Up
